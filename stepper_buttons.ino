@@ -48,7 +48,7 @@ void loop() {
     delayMicroseconds(pulseGap);
 
   } else if (button2State == HIGH) {
-    // turn motor clockwise:
+    // turn motor anti-clockwise:
     digitalWrite(dirPin,LOW);
     digitalWrite(stepPin,HIGH);
     delayMicroseconds(pulseWidth);
