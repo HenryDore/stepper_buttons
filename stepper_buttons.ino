@@ -24,7 +24,7 @@ int pulseWidth = 2000;        //width of pulse sent to A4988 in microseconds
 int pulseGap = 2000;          //time between pulses in microseconds
 
 void setup() {
-  // initialize the A4988 pins as an output:
+  // initialize the A4988 pins as outputs:
   pinMode(stepPin,OUTPUT);
   pinMode(dirPin,OUTPUT);
   // initialize the pushbutton pins as an inputs:
