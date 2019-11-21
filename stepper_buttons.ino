@@ -4,8 +4,9 @@
   Turns a stepper motor clockwise and anticlockwise using an A4988 driver
   and 2 buttons.
 
-  The circuit:
-  --
+  Visit: 
+  https://github.com/HenryDore/stepper_buttons
+  for circuit diagram and parts list
   
   created 2019
   by Henry Dore <henrymonkey@gmail.com>
