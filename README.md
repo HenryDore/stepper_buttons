@@ -2,7 +2,7 @@
 Circuit to drive a stepper motor with an A4988 driver and 2 push buttons
 
 ## Circuit Diagram:
-![alt text](circuit_diagram.png)
+![Circuit diagram](circuit diagram.png)
 
 ## Components:
 * Arduino Uno
